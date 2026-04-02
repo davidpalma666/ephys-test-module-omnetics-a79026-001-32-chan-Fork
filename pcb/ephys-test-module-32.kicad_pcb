@@ -1241,7 +1241,7 @@
 			(uuid "e97e3207-b152-403c-9c5e-337e781936ed")
 		)
 		(embedded_fonts no)
-		(model "${JONNEW_KICAD_LIB_DIR}/models/OMNETICS_A79026-001.STEP"
+		(model "${JONNEW_3D_MODEL_DIR}/OMNETICS_A79026-001.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
