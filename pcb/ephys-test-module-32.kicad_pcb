@@ -1241,7 +1241,7 @@
 			(uuid "e97e3207-b152-403c-9c5e-337e781936ed")
 		)
 		(embedded_fonts no)
-		(model "${JONNEW_3D_MODEL_DIR}/OMNETICS_A79026-001.STEP"
+		(model "${JONNEW_3DMODEL_DIR}/OMNETICS_A79026-001.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4710,7 +4710,7 @@
 			(uuid "beefe314-6475-4970-9381-5002419865c1")
 		)
 		(embedded_fonts no)
-		(model "${JONNEW_3D_MODEL_DIR}/SAMTEC_BSE-040-01-X-D-A.STEP"
+		(model "${JONNEW_3DMODEL_DIR}/SAMTEC_BSE-040-01-X-D-A.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8373,7 +8373,7 @@
 			(uuid "6cdeaf86-3ad4-44f4-b5e3-9dc9a6333c78")
 		)
 		(embedded_fonts no)
-		(model "${JONNEW_3D_MODEL_DIR}/SAMTEC_BSE-040-01-X-D-A.STEP"
+		(model "${JONNEW_3DMODEL_DIR}/SAMTEC_BSE-040-01-X-D-A.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8381,7 +8381,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
